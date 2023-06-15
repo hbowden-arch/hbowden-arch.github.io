@@ -2,7 +2,7 @@
 permalink: /
 title: "About Me"
 excerpt: "About me"
-author_profile: false
+author_profile: true
 redirect_from: 
   - /about/
   - /about.html
@@ -12,5 +12,5 @@ I am a graduate student in astronomy and astrophysics at the University of Arizo
 
 Contact Info
 ======
-Email: behroozi-at-arizona.edu
+Email: behroozi-at-arizona.edu <br>
 Office: 341 Steward Observatory
