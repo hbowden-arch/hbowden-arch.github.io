@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Haley Bowden"
-  avatar           : "grad-div_MG_8512.jpg"
+  avatar           : "Asset 1.png" #"grad-div_MG_8512.jpg"
   bio              : "Astrophysics Ph.D. Candidate at the University of Arizona researching the connection between galaxies and their host dark-matter halos using machine learning techniques."
   location         : 
   employer         : "University of Arizona"
