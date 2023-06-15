@@ -12,5 +12,5 @@ I am a graduate student in astronomy and astrophysics at the University of Arizo
 
 Contact Info
 ======
-Email: behroozi-at-arizona.edu <br>
+Email: hbowden-at-arizona.edu <br>
 Office: 341 Steward Observatory
