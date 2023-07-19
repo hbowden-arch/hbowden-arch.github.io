@@ -6,9 +6,6 @@
   <ul>
     {% for nav in navigation %}
       <li>
-        {% if nav.key == 'cv' $}
-           <a href="{{ base_path }}_pages/HBOWDEN_CV.pdf"><span class="nav__sub-title">{{ nav.title }}</span></a>
-        {% endif %}
         {% if nav.url %}
           {% comment %}internal/external URL check{% endcomment %}
           {% if nav.url contains "://" %}
