@@ -7,5 +7,4 @@ main:
     url: /code/
 
   - title: "CV"
-    key: 'cv'
-    link: _pages/HBOWDEN_CV.pdf
+    url: /HBOWDEN_CV.pdf
