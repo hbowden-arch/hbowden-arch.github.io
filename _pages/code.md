@@ -2,7 +2,7 @@
 layout: single
 title: "Code"
 permalink: /code/
-author_profile: false
+author_profile: true
 header:
   overlay_color: "#333"
   #overlay_image: /assets/images/unsplash-image-1.jpg
