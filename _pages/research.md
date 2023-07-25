@@ -4,7 +4,7 @@ title: "Research"
 permalink: /research/
 author_profile: true
 header:
-  overlay_color: "#943126"
+  overlay_color: "#333"
   #overlay_image: /assets/images/unsplash-image-1.jpg
   #caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
   #excerpt: "Haley Bowden - Research"
@@ -23,9 +23,11 @@ I am interested in the physics that drives galaxy formation and evolution. This 
 
 ## Machine Learning
 
-The use of machine learning in science and in astronomy in particular is sky-rocketing! Machine learning provides a way forward for exploring complicated correlations and enormous datasets previously limited by traditional techniques. This is becoming more and more relevant as next-generation telescopes bring colossal observational catalogs and simulations grow in size. In my research, I use neural networks to learn the complex relationships between environment, galaxy, and dark matter halo. By training neural networks on simulated mock catalogs of galaxies and halos like those from UniverseMachine, my work opens a new window onto the invisible properties of dark matter halos and the galaxy-halo connection.
+The use of machine learning in science and in astronomy in particular is sky-rocketing! Machine learning provides a way forward for exploring complicated correlations and enormous datasets previously limited by traditional techniques. This is becoming more and more relevant as next-generation telescopes bring colossal observational catalogs and simulations grow in size. In my research, I use neural networks to learn the complex relationships between environment, galaxy, and dark matter halo. By training neural networks on simulated mock catalogs of galaxies and halos like those from [UniverseMachine](https://www.peterbehroozi.com/](https://arxiv.org/abs/1806.07893), my work opens a new window onto the invisible properties of dark matter halos and the galaxy-halo connection.
 
 
 ## Papers and Other Links
 
+Halo Properties from Observable Measures of Environment: I. Halo and Subhalo Masses: [Bowden et al. 2023](https://ui.adsabs.harvard.edu/abs/2023arXiv230707549B/abstract)
 
+Finding environmental measures sensitive to halo properties using neural networks ([Talk at KITP](https://youtu.be/FfkyKTMVvx0))
