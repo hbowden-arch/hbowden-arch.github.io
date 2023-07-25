@@ -6,14 +6,17 @@ author_profile: true
 header:
   overlay_color: "#333"
   #overlay_image: /assets/images/unsplash-image-1.jpg
-  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
-  actions:
-    - label: "More Info"
-      url: "https://unsplash.com"
+  #caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
+  #actions:
+  #  - label: "More Info"
+  #    url: "https://unsplash.com"
 redirect_from: 
   - /code
 
 ---
+
+This page is under development. Please check back later for more information!
+{: .notice}
 
 ## Halo Properties
 
