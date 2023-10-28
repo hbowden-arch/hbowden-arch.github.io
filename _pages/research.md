@@ -29,7 +29,7 @@ The use of machine learning in science and in astronomy in particular is sky-roc
 
 ## Cosmology with LSST
 
-I have recently started working with Professor Tim Eifler and the Arizona Cosmology Lab on a new project in preparation for the upcoming Legacy Survey of Space and Time (LSST). Working with the data processing and analysis pipeline being developed by the many folks involved in the [Dark Energy Survey Collaboration](https://lsstdesc.org/), I intend to integrate the code developed by members of the Arizona Cosmology Lab into the pipeline for cosmological analysis for wise spread use by the cosmology community.
+I have recently started working with Professor Tim Eifler and the Arizona Cosmology Lab on a new project in preparation for the upcoming Legacy Survey of Space and Time (LSST). Working with the data processing and analysis pipeline being developed by the many folks involved in the [Dark Energy Science Collaboration](https://lsstdesc.org/), I intend to integrate the code developed by members of the Arizona Cosmology Lab into the pipeline for cosmological analysis for wise spread use by the cosmology community.
 
 
 
