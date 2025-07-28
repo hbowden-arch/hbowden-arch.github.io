@@ -4,7 +4,9 @@ title: "Code"
 permalink: /code/
 author_profile: true
 header:
-  overlay_color: "#333"
+  #overlay_color: "#333"
+  overlay_image: header2.jpg
+  caption: "Image credit: [**Springel et al. (2005)**](https://wwwmpa.mpa-garching.mpg.de/galform/virgo/millennium/)"
   #overlay_image: /assets/images/unsplash-image-1.jpg
   #caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
   #actions:
@@ -15,15 +17,22 @@ redirect_from:
 
 ---
 
-This page is under development. Please check back later for more information!
-{: .notice}
 
-## Halo Properties
+## Dark Matter Halo Properties
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+[Click here](https://github.com/hbowden-arch/HaloProperties) to access the GitHub repository
+
+## Cosmology and the Roman Space Telescope
+
+[Click here](https://github.com/CosmoLike/cocoa/tree/main) for the main CoCoA repository (including installation instructions)
 
 
+[Click here](https://github.com/CosmoLike/roman_cpip_data_challenge) for Roman specific repository
 
-## Non-Astronomy Work
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+[Click here](https://github.com/CosmoLike/cocoa_roman_real) to access the first HLIS data challenge
+
+## Warrior Scholar Project
+
+[Click here](https://github.com/hbowden-arch/WSP_2024) to access the course page and notebooks for the 2024 Warrior Scholar Project
+

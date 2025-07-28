@@ -1,12 +1,12 @@
 ---
 layout: single
-title: "Research"
+title: "Research Interests"
 permalink: /research/
 author_profile: true
 header:
-  overlay_color: "#333"
-  #overlay_image: /assets/images/unsplash-image-1.jpg
-  #caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
+  #overlay_color: "#333"
+  overlay_image: header2.jpg
+  caption: "Image credit: [**Springel et al. (2005)**](https://wwwmpa.mpa-garching.mpg.de/galform/virgo/millennium/)"
   #excerpt: "Haley Bowden - Research"
   #actions:
   #  - label: "More Info"
@@ -27,9 +27,9 @@ The use of machine learning in science and in astronomy in particular is sky-roc
 
 
 
-## Cosmology with LSST
+## Cosmology with Roman
 
-I have recently started working with Professor Tim Eifler and the Arizona Cosmology Lab on a new project in preparation for the upcoming Legacy Survey of Space and Time (LSST). Working with the data processing and analysis pipeline being developed by the many folks involved in the [Dark Energy Science Collaboration](https://lsstdesc.org/), I intend to integrate the code developed by members of the Arizona Cosmology Lab into the pipeline for cosmological analysis for wise spread use by the cosmology community.
+I am part of the team developing a cosmological parameters inference pipeline for the Roman High-Latitude Wide Area Survey. I am primarily focused on creating a neural network emulator to determine the effectiveness of the survey at constraining evolving dark energy. I am also involved in a project to create model vector emulators for Roman weak-lensing + clustering that will allow anyone to run a likelihood analysis in a python notebook. Check out the [code](https://hbowden-arch.github.io/code/) section for more information on the pipeline and associated activities.
 
 
 
@@ -37,4 +37,5 @@ I have recently started working with Professor Tim Eifler and the Arizona Cosmol
 
 Halo Properties from Observable Measures of Environment: I. Halo and Subhalo Masses: [Bowden et al. 2023](https://astro.theoj.org/article/88996-halo-properties-from-observable-measures-of-environment-i-halo-and-subhalo-masses)
 
-Finding environmental measures sensitive to halo properties using neural networks ([Talk at KITP](https://youtu.be/FfkyKTMVvx0))
+Finding environmental measures sensitive to halo properties using neural networks ([Talk at KITP](https://youtu.be/FfkyKTMVvx0), [Talk at CCA/IAP](https://www.youtube.com/watch?v=E0uXlwdkdQU))
+
